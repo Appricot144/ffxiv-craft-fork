@@ -1,3 +1,5 @@
+this is forked ripository
+
 # [Final Fantasy XIV Craft (FFXIV Craft)](https://dazemc.github.io/ffxiv-craft)
 [![Update and Deploy](https://github.com/dazemc/ffxiv-craft/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/dazemc/ffxiv-craft/actions/workflows/jekyll-gh-pages.yml)
 
